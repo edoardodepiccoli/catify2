@@ -14,3 +14,8 @@ function reveal(){
 
 	}
 }
+
+/*		else{
+			reveals[i].classList.remove('active');
+		}
+*/
